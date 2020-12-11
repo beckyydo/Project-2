@@ -63,8 +63,8 @@ Key Columns: City, State, Population, Market Share %
 
 ## TASKS/ROLES:
 Preprocessing of data (Rebecca/Ronald/Hanieh) <br />
-Data Extraction (Hanieh/May) <br />
-Transformation (Elizabeth/Ronald) <br />
+Data Extraction (Hanieh/Elizabeth) <br />
+Transformation (Elizabeth/May/Ronald) <br />
 Loading (May/Rebecca) <br/>
 
 ## TABLE IDEAS:
