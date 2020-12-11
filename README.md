@@ -2,10 +2,10 @@
 **Team Name:** Awesome Possum
 
 **Group Members/Roles:**
-(1) May Lacdao 
-(2) Hanieh Babaee 
-(3) Rebecca Pham
-(4) Ronald Clarke 
+(1) May Lacdao  <br />
+(2) Hanieh Babaee  <br />
+(3) Rebecca Pham <br />
+(4) Ronald Clarke  <br />
 (5) Elizabeth Salas Martinez
 
 <br />
