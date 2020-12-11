@@ -69,7 +69,7 @@ Loading (May/Rebecca) <br/>
 
 ## TABLE IDEAS:
 (1) Data 3 + Data 4 Merge on column “state” <br />
-Looking at store sales relationship across states 
+Looking at store sales relationship across states  <br />
 (2) Data 1 + Data 2 Merge on column “date” <br />
 See how socio economic variables affect stock prices for Walmart 
 <br />
