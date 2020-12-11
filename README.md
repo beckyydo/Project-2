@@ -18,7 +18,7 @@ Data Source: Kaggle <br />
 Data Type: csv <br />
 SQL: MongoDB <br />
 Description: Store sales from 2010-2012 containing various socio economic variables, dates
-& holidays. <br />
+& holidays. (CONT. PROJECT 1) <br />
 Key Columns: Date (Day), Store #, Dept #, Sales, CPI, Fuel Price, Temperature, Is_Holiday  
 
 ### Data 2
