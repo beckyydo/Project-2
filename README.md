@@ -8,8 +8,6 @@
 (4) Ronald Clarke  <br />
 (5) Elizabeth Salas Martinez
 
-<br />
-
 ## PROJECT DESCRIPTION:
 This project aims to demonstrate the ETL (extract, transform, load) process. Using various Walmart-related datasets, our group aims to build a database that allows us to analyze Walmart sales and revenue as affected by various factors. 
 
