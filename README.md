@@ -1,7 +1,7 @@
 # PROJECT 2
 **Team Name:** Awesome Possum
 
-**Group Members/Roles:**
+**Group Members/Roles:** <br />
 (1) May Lacdao  <br />
 (2) Hanieh Babaee  <br />
 (3) Rebecca Pham <br />
