@@ -67,7 +67,7 @@ Data Extraction (Hanieh/May) <br />
 Transformation (Elizabeth/Ronald) <br />
 Loading (May/Rebecca) <br/>
 
-##TABLE IDEAS:
+## TABLE IDEAS:
 Data 3 + Data 4 Merge on column “state” <br />
 - Looking at store sales relationship across states <br />
 Data 1 + Data 2 Merge on column “date” <br />
