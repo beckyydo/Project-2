@@ -1,4 +1,4 @@
-Store,Start of Week,Date,Fuel_Price,CPI,Unemployment,Type,Size,Week,Year,Temperature C,Holiday Name,Weekly_Sales
+Store,Start_of_Week,Date,Fuel_Price,CPI,Unemployment,Type,Size,Week,Year,Temperature_C,Holiday_Name,Weekly_Sales
 1,2010-01-30,2010-02-05,2.57,211.0964,8.106,A,151315,5,2010,6.0,No Holiday,1643690.9000000004
 1,2010-02-06,2010-02-12,2.55,211.2422,8.106,A,151315,6,2010,4.0,No Holiday,1641957.4400000006
 1,2010-02-13,2010-02-19,2.51,211.2891,8.106,A,151315,7,2010,4.0,No Holiday,1611968.1699999992
