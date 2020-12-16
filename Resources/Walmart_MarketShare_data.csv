@@ -7,9 +7,9 @@ Guymon, Ohio,21385,90%
 Nonh Platte, Neb.,37043,87%
 Wahpeton, N.D.-Minn.,23036,84%
 Coffey.'ille, Kan.,33434,83%
-Othello, Wash.,"1 9,806",83%
+Othello, Wash.,19806,83%
 Bismarck, N.D.,135654,83%
-Helena-West Helena, Ark,"20, 1 76",80%
+Helena-West Helena, Ark,20176,80%
 Altus, Okla.,25931,77%
 Parsons, Kan.,20761,77%
 Miami, Okla.,32260,77%
@@ -20,11 +20,11 @@ Greensburg, Ind.,26711,74%
 Clarksdale, Miss.,25085,74%
 Dumas, Texas,22485,74%
 Dickinson, N.D.,33239,73%
-Winnemucca, Nev.,"1 7,327",73%
+Winnemucca, Nev.,17327,73%
 Hereford, Texas,19159,73%
 Pampa, Texas,23423,72%
 Mexico, Mo.,26325,71%
-Pierre, S.D.,"22, 1 92",71%
+Pierre, S.D.,22192,71%
 Arkadelphia, Ark.,22798,71%
 Point Pleasant, W.Va.-Ohio,56967,71%
 Malvern, Ark.,33811,71%
@@ -39,14 +39,14 @@ Amarillo, Texas,263797,70%
 Ruston, La.,48279,70%
 Stillwater, Okla.,82260,69%
 Wauchula, Fla.,27697,69%
-Cambridge, Md.,"32, 186",69%
+Cambridge, Md.,32186,69%
 Forrest City, Ark.,27268,69%
 Vernon, Texas,13146,69%
 Fayetteville-Springdale-Rogers, Ark.-Mo,525855,69%
 Moberly, Mo.,25214,69%
 Beatrice, Neb.,21818,69%
 Natchez, Miss.-La.,51877,69%
-Sulphur Springs, Texas,"36, 476",68%
+Sulphur Springs, Texas,36476,68%
 Borger, Texas,22055,68%
 Indianola, Miss.,27561,68%
 Woodward, Okla.,21706,68%
@@ -55,7 +55,7 @@ Durant, Okla.,45339,66%
 Mitchell, S.D.,23428,66%
 Springfield, Mo.,462821,66%
 Dixon, Ill.,34724,66%
-Mineral Wells, Texas,"28, 1 04",66%
+Mineral Wells, Texas,28104,66%
 Arcadia, Fla.,35890,66%
 Fort Polk South, La.,51637,65%
 Jonesboro, Ark.,131178,65%
@@ -68,27 +68,27 @@ McAlester, Okla.,44721,64%
 Duncan, Okla.,44724,64%
 Seneca Falls, N.Y.,35206,64%
 Grand Island, Neb.,85805,64%
-Lexington, Neb.,"25, 980",63%
+Lexington, Neb.,25980,63%
 Wichita Falls, Texas,152271,63%
-Magnolia, Ark.,"24, 126",62%
-Monroe, La.,"181 ,422",62%
+Magnolia, Ark.,24126,62%
+Monroe, La.,181422,62%
 Bennettsville, S.C.,27439,62%
 Elk City, Okla.,24087,62%
 Mountain Home, Idaho,25613,62%
 Mount Pleasant, Texas,33078,62%
-Fairmont, W.Va.,"57, 180",62%
+Fairmont, W.Va.,57180,62%
 Sedalia, Mo.,42362,61%
 Espafiola, N.M.,40002,61%
 Tupelo, Miss.,140563,61%
 Cape Girardeau, Mo.-Ill,98337,61%
 Fort Smith, Ark.-Okla.,282199,61%
 Platteville, Wis.,52866,61%
-San Angelo, Texas,"1 21 ,466",61%
+San Angelo, Texas,121466,61%
 Fallon, Nev.,24420,61%
-Goldsboro, N.C.,"1 24,074",60%
+Goldsboro, N.C.,124074,60%
 Cordele, Ga.,23099,60%
 Ada, Okla.,38583,60%
-St Joseph, Mo.-Kan.,"1 28,474",60%
+St Joseph, Mo.-Kan.,128474,60%
 Hot Springs, Ark.,97286,59%
 Oklahoma City, Okla.,1379709,59%
 Bastrop, La.,27216,59%
@@ -106,7 +106,7 @@ Selma, Ala.,41952,57%
 Craig, Colo.,12935,57%
 DeRidder, La.,36776,57%
 Weatherford, Okla.,29964,57%
-Las Cruces, N.M.,"21 8,401",57%
+Las Cruces, N.M.,218401,57%
 Greenwood, Miss.,41433,57%
 Roswell, N.M.,66433,57%
 Alexandria, La.,156114,57%
@@ -116,8 +116,8 @@ Camden, Ark.,29594,56%
 Yankton, S.D.,22994,56%
 Florence-Muscle Shoals, Ala,148719,56%
 Texarkana, Texas-Ark.,150652,56%
-Liberal, Kan.,"23, 145",56%
-Menomonie, Wis.,"44, 266",56%
+Liberal, Kan.,23145,56%
+Menomonie, Wis.,44266,56%
 Blackfoot, Idaho,44975,56%
 Rome, Ga.,97137,56%
 Paragould, Ark.,44702,56%
@@ -129,11 +129,11 @@ Clovis, N.M.,51513,55%
 Hutchinson, Minn.,35778,55%
 Talladega-Sylacauga, Ala.,91351,55%
 Jacksonville, N.C.,192666,55%
-Warrensburg, Mo.,"55, 167",55%
+Warrensburg, Mo.,55167,55%
 Fort Leonard Wood, Mo.,54039,55%
 Maryville, Mo.,23237,55%
 Longview, Texas,219965,55%
-Fairfield, Iowa,"1 7,222",55%
+Fairfield, Iowa,17222,55%
 Dodge City, Kan.,34252,55%
 Crescent City, Calif.,27555,55%
 Junction City, Kan.,37328,55%
@@ -145,7 +145,7 @@ Dayton, Tenn.,32403,54%
 Brookings, S.D.,34318,54%
 Summerville, Ga.,24956,54%
 Albertville, Ala.,95247,54%
-La Grande, Ore.,"26, 131",54%
+La Grande, Ore.,26131,54%
 Farmington, Mo.,66824,54%
 Pueblo, Colo.,164368,54%
 Toccoa, Ga.,25775,54%
@@ -187,7 +187,7 @@ Tahlequah, Okla.,48645,51%
 Casper, Wyo.,83011,51%
 Natchitoches, La.,39553,51%
 Yuma, Ariz.,205420,51%
-Athens, Texas,"7 9, 945",51%
+Athens, Texas,79945,51%
 Kirksville, Mo.,30158,51%
 Morgantown, W.Va.,137227,51%
 Daphne-Fairhope-Foley, Ala.,208745,51%
@@ -197,7 +197,7 @@ Vincennes, Ind.,38026,51%
 Van Weft, Ohio,28729,51%
 Logan, Utah-Idaho,137492,50%
 Frankfort, Ind.,32929,50%
-Maysville, Ky.,"1 7,230",50%
+Maysville, Ky.,17230,50%
 Enid, Okla.,62602,50%
 Shawnee, Okla.,71961,50%
 Troy, Ala.,33368,50%
