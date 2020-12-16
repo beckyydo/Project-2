@@ -5,7 +5,7 @@ Sterling, Colo.,22068,91%
 Deming, N.M.,24699,90%
 Guymon, Ohio,21385,90%
 Nonh Platte, Neb.,37043,87%
-Wahpeton, N.D.-Minn.,23036,84%
+Wahpeton,N.D.,23036,84%
 Coffey.'ille, Kan.,33434,83%
 Othello, Wash.,19806,83%
 Bismarck, N.D.,135654,83%
@@ -26,7 +26,7 @@ Pampa, Texas,23423,72%
 Mexico, Mo.,26325,71%
 Pierre, S.D.,22192,71%
 Arkadelphia, Ark.,22798,71%
-Point Pleasant, W.Va.-Ohio,56967,71%
+Point Pleasant, W.Va.,56967,71%
 Malvern, Ark.,33811,71%
 Las Vegas, N.M.,28262,71%
 Lawton, Okla.,132272,71%
@@ -34,7 +34,7 @@ Joplin, Mo.,180743,71%
 Fitzgerald, Ga.,17373,70%
 Marshall, Mo.,23448,70%
 Brookhaven, Miss.,35053,70%
-Union City, Tenn.-Ky.,37185,70%
+Union City, Tenn.,37185,70%
 Amarillo, Texas,263797,70%
 Ruston, La.,48279,70%
 Stillwater, Okla.,82260,69%
@@ -42,10 +42,10 @@ Wauchula, Fla.,27697,69%
 Cambridge, Md.,32186,69%
 Forrest City, Ark.,27268,69%
 Vernon, Texas,13146,69%
-Fayetteville-Springdale-Rogers, Ark.-Mo,525855,69%
+Fayetteville-Springdale-Rogers, Ark.,525855,69%
 Moberly, Mo.,25214,69%
 Beatrice, Neb.,21818,69%
-Natchez, Miss.-La.,51877,69%
+Natchez, Miss.,51877,69%
 Sulphur Springs, Texas,36476,68%
 Borger, Texas,22055,68%
 Indianola, Miss.,27561,68%
@@ -60,7 +60,7 @@ Arcadia, Fla.,35890,66%
 Fort Polk South, La.,51637,65%
 Jonesboro, Ark.,131178,65%
 Branson, Mo.,86046,65%
-Whitewater-Elkhorn, WIS,102562,65%
+Whitewater-Elkhorn,Wis.,102562,65%
 Levelland, Texas,23528,65%
 Columbus, Ind.,82559,65%
 Jamestown, N.D.,21208,65%
@@ -80,15 +80,15 @@ Fairmont, W.Va.,57180,62%
 Sedalia, Mo.,42362,61%
 Espafiola, N.M.,40002,61%
 Tupelo, Miss.,140563,61%
-Cape Girardeau, Mo.-Ill,98337,61%
-Fort Smith, Ark.-Okla.,282199,61%
+Cape Girardeau,Mo.,98337,61%
+Fort Smith,Ark.,282199,61%
 Platteville, Wis.,52866,61%
 San Angelo, Texas,121466,61%
 Fallon, Nev.,24420,61%
 Goldsboro, N.C.,124074,60%
 Cordele, Ga.,23099,60%
 Ada, Okla.,38583,60%
-St Joseph, Mo.-Kan.,128474,60%
+St Joseph,Mo.,128474,60%
 Hot Springs, Ark.,97286,59%
 Oklahoma City, Okla.,1379709,59%
 Bastrop, La.,27216,59%
@@ -99,7 +99,7 @@ Carlsbad-Artesia, N.M.,58117,58%
 Clewiston, Fla.,38777,58%
 Garden City, Kan.,41119,58%
 Tyler, Texas,224825,58%
-Grand Forks, N.D.-Minn.,104979,58%
+Grand Forks,N.D.,104979,58%
 Blytheville, Ark.,44660,58%
 Jesup, Ga.,29022,58%
 Selma, Ala.,41952,57%
@@ -115,7 +115,7 @@ Lebanon, Mo.,35411,56%
 Camden, Ark.,29594,56%
 Yankton, S.D.,22994,56%
 Florence-Muscle Shoals, Ala,148719,56%
-Texarkana, Texas-Ark.,150652,56%
+Texarkana,Texas,150652,56%
 Liberal, Kan.,23145,56%
 Menomonie, Wis.,44266,56%
 Blackfoot, Idaho,44975,56%
@@ -150,7 +150,7 @@ Farmington, Mo.,66824,54%
 Pueblo, Colo.,164368,54%
 Toccoa, Ga.,25775,54%
 Hannibal, Mo.,39091,53%
-Laramie, Wy,37950,53%
+Laramie, Wyo.,37950,53%
 Moultrie, Ga.,45794,53%
 Alexandria, Minn.,37309,53%
 Russellville, Ark.,86165,53%
@@ -195,7 +195,7 @@ Watertown, S.D.,28425,51%
 Victoria, Texas,101671,51%
 Vincennes, Ind.,38026,51%
 Van Weft, Ohio,28729,51%
-Logan, Utah-Idaho,137492,50%
+Logan,Utah,137492,50%
 Frankfort, Ind.,32929,50%
 Maysville, Ky.,17230,50%
 Enid, Okla.,62602,50%
